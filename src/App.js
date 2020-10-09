@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>User Management App</h1>
+      <h1>User Management App + AWS Amplify </h1>
     </div>
   );
 }
